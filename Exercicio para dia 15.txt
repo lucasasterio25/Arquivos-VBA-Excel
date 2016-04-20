@@ -1,0 +1,7 @@
+		EXERCICIOS
+* Criar mensagens onde a :
+1. Resposta apresente os botões REPETIR e CANCELAR mostre a função de comunicação e QUESTÃO.
+2. Resposta apresente os botões SIM e CANCELAR e mostre a função de comunicação de EXCLAMAÇÃO.
+3. Resposta apresente os botões SIM e NÃO e mostre a função de comunicação de INFORMAÇÃO.
+4. Resposta apresente os botões REPETIR, ANULAR e CANCELAR e mostre a função de CRITICA.
+5. Resposta apresente os botões SIM e mostre a função de comunicação INFORMAÇÃO.
